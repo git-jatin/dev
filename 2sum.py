@@ -12,5 +12,3 @@ def add(a,sum):
 
 print(add(a,sum))
 
-
-
